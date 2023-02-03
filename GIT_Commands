@@ -1,0 +1,9 @@
+git init : initialize folder as GIT repo
+vim file1.txt -- creates a new File
+git add - A  : Add all new changes of git repo to staged 
+git commit -sm "Comment" : Used to commit all the changes into GIT repo
+git log - log files for all the changes
+git status - 
+git push origin main : push all changes to GITHUB
+git checkout -b update-countries : create or switch to a new branch
+git commit -sm "Comment" --author"Username<Email>"
